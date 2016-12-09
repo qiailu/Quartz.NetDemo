@@ -1,2 +1,0 @@
-# Quartz.NetDemo
-Quartz.NetDemo
